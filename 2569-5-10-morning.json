@@ -1,0 +1,16 @@
+{
+  "session": "morning",
+  "date": "2569-5-10",
+  "parts": [
+    {
+      "part": 1,
+      "file": "2569-5-10-morning-msg1.m4a",
+      "duration_ms": 129264
+    },
+    {
+      "part": 2,
+      "file": "2569-5-10-morning-msg2.m4a",
+      "duration_ms": 135000
+    }
+  ]
+}
